@@ -15,16 +15,6 @@ The objective of this assignment is to generate plots using matplotlib library a
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
 ## Work Experience 
 
 ### Indian Institute Of Science
@@ -43,8 +33,32 @@ I worked as a software developer in <a href="https://www.3ds.com/" target="blank
 
 
 ---
+## Favorite quotes
+
+<p align="center">
+  <img src="images/carl _jung_sane.jpg" width="400px" alt=""> 
+</p>
+
+<p align="center">
+  <img src="images/mary_angelou.jpg" width="600px" alt=""> 
+</p>
+
+<p align="center">
+  <img src="images/office_quotes.jpg" width="400px" alt=""> 
+</p>
+
+---
 
 
+<!--- ### Category Name 2
+
+- [Project 1 Title](http://example.com/)
+- [Project 2 Title](http://example.com/)
+- [Project 3 Title](http://example.com/)
+- [Project 4 Title](http://example.com/)
+- [Project 5 Title](http://example.com/) --->
+
+---
 
 
 ---
