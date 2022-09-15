@@ -36,7 +36,7 @@ I am currently a teaching assistant for DS:226 Introduction to Computing for Art
 ### Dassault Systemes
 ####  (June 2018 - July 2021)
 <p align="justify">
-I worked as a software developer in Dassault Systemes where I developed code mainly related to <a href="https://www.3ds.com/cloud?utm_medium=cpc&utm_source=google&utm_campaign=202201_glo_sea_en_op51508_labl_brand_ind_exact&utm_term=3dexperience-exact&utm_content=search&gclid=Cj0KCQjwmouZBhDSARIsALYcoup9Z2tM7-u2sL1M2VDR4vlblvzp9jF0xc3fEIEZb7XJGvuKkq6Jgc8aAs_ZEALw_wcB">3DExperience</a>. I was also responsible for maintenance and testing of code. I developed many new functionalities to support customers like Michel, Dassault Aviation and Mercedes Benz.
+I worked as a software developer in <a href="https://www.3ds.com/" target="blank"Dassault Systemes</a>  where I developed code mainly related to <a href="https://www.3ds.com/cloud?utm_medium=cpc&utm_source=google&utm_campaign=202201_glo_sea_en_op51508_labl_brand_ind_exact&utm_term=3dexperience-exact&utm_content=search&gclid=Cj0KCQjwmouZBhDSARIsALYcoup9Z2tM7-u2sL1M2VDR4vlblvzp9jF0xc3fEIEZb7XJGvuKkq6Jgc8aAs_ZEALw_wcB">3DExperience</a>. I was also responsible for maintenance and testing of code. I developed many new functionalities to support customers like Michel, Dassault Aviation and Mercedes Benz.
 
 </p>
    
