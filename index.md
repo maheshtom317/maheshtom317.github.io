@@ -1,10 +1,14 @@
-## Portfolio
+## About
+
+ <p align="justify">
+  I am currently a Masters' student at the <b>Indian Institute Of Science</b>. I work under <b>Dr.Sashikumaar Ganesan</b> in the <b> Computational Mathematics Group </b> at the <b> Department of Computational and Data Sciences </b>. Prior to this I worked in <b> Dassault Systemes </b> as a Software developer. My complete resume can be found here.
+</p>
 
 ---
 
-### Category Name 1 
+## Assignment DS 200
 
-[Project 1 Title](/sample_page)
+<!---[Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -13,7 +17,7 @@
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/> --->
 
 ---
 
