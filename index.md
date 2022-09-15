@@ -20,7 +20,7 @@ The objective of this assignment is to generate plots using matplotlib library a
 ### Indian Institute Of Science
 ####  (August 2022-December 2022)
 <p align="justify">
-I am currently a teaching assistant for DS:226 Introduction to Computing for Artificial Intelligence and Machine Learning at IISc, Bengaluru wherre I design and evaluate questions for quizzes, assignments and exams. 
+I am currently a teaching assistant for DS:226 Introduction to Computing for Artificial Intelligence and Machine Learning at IISc, Bengaluru where I design and evaluate questions for quizzes, assignments and exams. 
 </p>
 
 ### Dassault Systemes
