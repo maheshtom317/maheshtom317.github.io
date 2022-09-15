@@ -40,7 +40,7 @@ I worked as a software developer in <a href="https://www.3ds.com/" target="blank
 </p>
 
 <p align="center">
-  <img src="images/mary_angelou.jpg" width="600px" alt=""> 
+  <img src="images/mary_angelou.jpg" width="400px" alt=""> 
 </p>
 
 <p align="center">
