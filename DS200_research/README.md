@@ -16,15 +16,14 @@
 ### Scatter Plots
 > Here are a few scatter plots
 ![scatterplot1](scatter_meat_transport.jpg)
-
 1.This plot shows the relationship between consumer price index of meat and fish vs the transport and communication. As we can see it is increasing but not in a very linear fashion. 
 2.Inference here is that as the transport and communication consumer price index increases so will the meat and fish consumer price index.
-![scatterplot2](scatter_Spices_transport.jpg)
 
+![scatterplot2](scatter_Spices_transport.jpg)
 1.This plot shows the relationship between consumer price index of spices vs the transport and communication consumer price index. As we can see it is increasing but not in a very linear fashion. 
 2.Inference here is that as the transport and communication consumer price index increases so will the Spices consumer price index. But sometimes there are sharp increases and sometimes smoother increases in the consumer price index value. 
-![scatterplot3](scatter_meat_transport.jpg)
 
+![scatterplot3](scatter_meat_transport.jpg)
 1.This plot shows the relationship between consumer price index of meat and fish vs the transport and communication. As we can see it is increasing but not in a very linear fashion. 
 2.Inference here is that as the transport and communication consumer price index increases so will the meat and fish consumer price index.
 
