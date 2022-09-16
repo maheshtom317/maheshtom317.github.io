@@ -3,34 +3,27 @@
 ## Module 4 : Assignment
 * * *
 
-> **AIM:- To download a dataset from www.data.gov.in and do the following**
->> Make a scatterplot, barchart and boxplot and draw inferences from it.
+> **Make a scatterplot, barchart and boxplot and draw inferences from dataset downloaded from www.data.gov.in**
 
-### Part1: - Dataset
-> The dataset is <a href="#my_anchor">[1]</a> **Crime in India - 2009/State/UT-wise Complaints received by Police & Cases registered under IPC & SLL during 2009** and is  downloaded from www.data.gov.in.
->> The link to download the dataset is https://data.gov.in/resources/stateut-wise-complaints-received-police-cases-registered-under-ipc-sll-during-2009 .<br/> The data is uploaded by **National Crime Records Bureau- Ministry of Home Affairs** (http://ncrb.gov.in/). <br/>The data gives the statistics of the method of complaint registration (oral/written/helpline/suomoto by police) and the category in which complaint is registered (IPC or SLL) for all states and U.Ts for the year 2008-9
-
-
-### Files
+### Dataset and files
+> The dataset is <a href="#my_anchor">[1]</a> **All India Consumer Price Index (Rural/Urban) upto November 2021** and is  downloaded from www.data.gov.in.
+>> The link to download the dataset is https://visualize.data.gov.in/?inst=a5df75bc-4578-48ad-bc9d-e6eb4b63de0a .<br/> The data consists of consumer price index for various elements such items such as Cereals, Meat and Fish, Fruits, Healthcare products and many other products.
 > All the files are contained in the zip folder **module4**
-1.  **NCRB_2009_Table_1.1.csv** is the file containing all the data. The file is same as downloaded from website, only the names of states are shortened.
-2.  **ds200_module4_plots.py** is the file containing python code for the creating the graphs using _matplotlib_ library.
-3.  Copy **plot_graphs.ipynb** in the **module4** folder if you want to use Jupyter Notebook.
+1.  **a5df75bc-4578-48ad-bc9d-e6eb4b63de0a.csv** is the csv file of the data set. The name is kept same as the name we see on downloading. 
+2.  **consumer_index.py** in the github repository is the python script for the python code for plotting. 
+3.  Copy **consumer_index.ipynb** is the jupyter notebook.
 
-### Part2: - Scatter Plot
-> Below are two scatterplot.
-
-![scatterplot](images/Figure_1.png)
-
-1.  The plot on left has **Number of complaints registered suomoto by police** -i.e The cases registered by police based on their investigation - vs **Number of complaints registered as SLL** (SLL:- Special and Local Laws, these are laws which are not part of IPC and include law instituted by Acts like Gambling Act 1867, Forest Act 1927, etc) for 28 states (based on 2009 data) and 7 union territories of India.
-2.  The plot on the right has **Number of complaints registered to police by oral,written or via helpline** vs **Number of cases registered as SLL**  for 28 states (based on 2009 data) and 7 union territories of India.
-3.  Both the **x-axis** and **y-axis** are on log10 scale. Best fit line is also plotted in each scatter plot.
-4.  **r** denotes the correlation coefficient between the data on **x-axis** and **y-axis**. 
-#### The observations one can derive from the scatterplot are the following:-
-1.  The number of complaints registered suomoto by the police for a state/UT are highly correlated with the number of complaints filed under SLL. 
-2.  The correlation between number of complaints registered by others(not suomoto by police) are not correlated to the number of complaints filed under SLL to that extent.
-3.  The regression line in plot (a) fits the data better than in plot (b).   
-4.  A logical reason for this is that mostly complaints under Special and Local Laws are filed againsts an entity after investigation by law enforcers and are therefore not filed on recieving of first complaint (with few exceptions like cognizible crime under Dowry Actor SC/ST attrocity ACT).
+### Scatter Plots
+> Here are a few scatter plots
+![scatterplot](images/scatter_meat_transport.jpg)
+1.This plot shows the relationship between consumer price index of meat and fish vs the transport and communication. As we can see it is increasing but not in a very linear fashion. 
+2.Inference here is that as the transport and communication consumer price index increases so will the meat and fish consumer price index.
+[scatterplot](images/scatter_Spices_transport.jpg)
+1.This plot shows the relationship between consumer price index of spices vs the transport and communication consumer price index. As we can see it is increasing but not in a very linear fashion. 
+2.Inference here is that as the transport and communication consumer price index increases so will the Spices consumer price index. But sometimes there are sharp increases and sometimes smoother increases in the consumer price index value. 
+[scatterplot](images/scatter_meat_transport.jpg)
+1.This plot shows the relationship between consumer price index of meat and fish vs the transport and communication. As we can see it is increasing but not in a very linear fashion. 
+2.Inference here is that as the transport and communication consumer price index increases so will the meat and fish consumer price index.
 
 * * *
 
