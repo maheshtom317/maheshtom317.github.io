@@ -35,7 +35,7 @@
 
 * * *
 
-### Part2: - Box Plot
+### Box Plot
 > Below are two boxplots.
 
 ![Boxplot](images/Figure_2.png)
@@ -49,7 +49,7 @@
 
 
 * * *
-### Part3: - Bar Chart
+### Line Graph
 > Below is the Barchart which shows for all States and U.Ts (those that existed in 2009) how many complaints are filed by non law enforcers and suomoto by police.
 
 ![Barchart](images/Figure_3.png)
