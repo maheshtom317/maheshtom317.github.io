@@ -9,7 +9,8 @@
 ## DS 200 : Research Methods Assignment 
 
 <p align="justify">
-The objective of this assignment is to generate plots using matplotlib library and draw some inference from the data.The dataset used is All India Consumer Price Index from January 2021 to November 2021. It is available at <a href="https://visualize.data.gov.in/?inst=a5df75bc-4578-48ad-bc9d-e6eb4b63de0a#" target="blank">https://www.data.gov.in</a>. Here we use box plot, scatter plot and line plot for drawing some inference from the data. [[Github Page](https://github.com/adityarastogi2k12/ds200){:target="_blank"}] [[Results](DS200_research/README.md)]
+The objective of this assignment is to generate plots using matplotlib library and draw some inference from the data.The dataset used is All India Consumer Price Index from January 2021 to November 2021. It is available at <a href="https://visualize.data.gov.in/?inst=a5df75bc-4578-48ad-bc9d-e6eb4b63de0a#" target="blank">https://www.data.gov.in</a>. Here we use box plot, scatter plot and line plot for drawing some inference from the data.
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[Github Page](https://github.com/maheshtom317.github.io/DS200_research){:target="_blank"}] [[Results](DS200_research/README.md)]
 </p>
 
 
