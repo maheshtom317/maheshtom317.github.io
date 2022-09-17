@@ -20,38 +20,55 @@
  </p>
  
 
-1.This plot shows the variation of the rainfall across many years for the months June, July, September
+1.This plot shows the variation of the rainfall in July vs rainfall in June and rainfall in August vs rainfall in June to see if there is a correlation between months
 
-2.Inference here is that as the in general the rainfall in July is higher than that of June and September. While comparing rainfall between June and September it is not so clear which month has higher rainfall from this graph but September has lower dips compared to the June. 
+2.In general no correlation can be seen but if we were to describe it simply, we could say it is approximately increasing 
 
-3.Across various years there is no clear trend and the rainfall seems to be constant although the peak rainfall years are before 2000. 
+3.At higher values of rainfall in June, we dont see that high a rainfall in July. 
+4. Around 200-250 range of rainfall in June , we see a peak in rainfall in both July and August. This could be a way to characterize the monsoon currents. 
 
 * * *
 
 ### Box Plot
 
 <p align="center">
- <img src="box_cereal.jpg" width="400px" alt=""> 
+ <img src="Rainfall_pics/box_rainfall.jpg" width="600px" alt=""> 
 </p>
 
-1.  The plot shows the variation of consumer price index for cereals and products for different sectors Rural, Urban and Rural+Urban 
-2.  We notice that the spraed is almost same for all except for Urban which show higher spread. 
-3.  The median consumer price index is higher in Rural as compared to Urban and Rural+Urban 
-4.  The Maximum and minimum values of consimer price index is higher than that for rural and rural+urban. 
+1.  This plot shows statistics for rainfall for various months from 1900-2016.
+2.  We see that July in general has the highest values for median, maximum and minimum.
+3.  September has the lowest median value and this may indicate the end of monsoon. 
+4.  September also has the highest interquartile range so some years may experience good rainfall in Septmber as compared to June while some years may not see as good      rains in Septmber compared to June 
+5.  August is the second in terms of the median rainfall across 116 years
+6.  June has the lowest range of values. Its values of rainfall are more consistent as compared to the other months. 
 
 
 * * *
-### Line Graph
+### Line Plot
 
 <p align="center">
- <img src="line_july.jpg" width="400px" alt=""> 
+ <img src="Rainfall_pics/Line_rainfall.jpg" width="600px" alt=""> 
 </p>
 
 
-1.  The line graph shows the variation of the consumer price index for the month of July from 2013 to 2021 for three different sectors Rural, Urban and Rural+Urban. 
-2.  We can see that the consumer index is highest for Rural , followed by Rural + Urban and then followed by Urban .
-3.  Primarily this which could indicate that inflation is higher in the rural areas. This could be a combination of many reasons, it may also be related to export and import regulatory rules. 
+1.This plot shows the variation of the rainfall across many years for the months June, July, September.
 
+2.Inference here is that as the in general the rainfall in July is higher than that of June and September. While comparing rainfall between June and September it is not so clear which month has higher rainfall from this graph but September has lower dips compared to the June. 
+
+3.Across various years there is no clear trend and the rainfall seems to be constant although the peak rainfall years are before 2000. 
+
+* * *
+### Bar Plot
+
+<p align="center">
+ <img src="Rainfall_pics/bar_rainfall.jpg" width="600px" alt=""> 
+</p>
+
+1. This is a plot showing the variation of total rainfall (June to September) across various years from 1970 to 2016. Each bar indicatest the total rainfall in millimetres(mm).
+2. There is no general trend that can be seen although the highest rainfall is seen at 1974 and lowest rainfall is seen at 2002. 
+3. Between 1988 to 2000 we see it has more peaks in the plot so these years may have seen good rainfall. as compared to other series of years. 
+
+* * *
 
 ## References
-<b id="my_anchor">[1].</b>  All India Consumer Price Index (Rural/Urban) upto November 2021, [https://visualize.data.gov.in/?inst=a5df75bc-4578-48ad-bc9d-e6eb4b63de0a]
+<b id="my_anchor">[1].</b>  All India Consumer Price Index (Rural/Urban) upto November 2021, [https://data.gov.in/resource/rainfall-south-peninsula-10-subdivisions-and-its-departure-normal-monsoon-session-june-0]
