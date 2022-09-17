@@ -47,7 +47,7 @@
 ### Line Plot
 
 <p align="center">
- <img src="Rainfall_pics/Line_rainfall.jpg" width="600px" alt=""> 
+ <img src="Rainfall_pics/Line_rainfall.jpg" width="800px" alt=""> 
 </p>
 
 
@@ -61,7 +61,7 @@
 ### Bar Plot
 
 <p align="center">
- <img src="Rainfall_pics/bar_rainfall.jpg" width="600px" alt=""> 
+ <img src="Rainfall_pics/bar_rainfall.jpg" width="800px" alt=""> 
 </p>
 
 1. This is a plot showing the variation of total rainfall (June to September) across various years from 1970 to 2016. Each bar indicatest the total rainfall in millimetres(mm).
