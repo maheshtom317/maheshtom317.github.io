@@ -8,14 +8,14 @@
 
 ## DS 200 : Research Methods Assignment 
 ## Module 4
-####  All India Consumer Price Index &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[Github Page](https://github.com/maheshtom317.github.io/DS200_research)] [[Results](DS200_research/README.md)]
+####  All India Consumer Price Index &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[Github Page](https://github.com/maheshtom317/DS200_assign_Module4)] [[Results](DS200_research/README.md)]
 
 <p align="justify">
 The objective of this assignment is to generate plots using matplotlib library and draw some inference from the data.The dataset used is All India Consumer Price Index from January 2021 to November 2021. It is available at <a href="https://visualize.data.gov.in/?inst=a5df75bc-4578-48ad-bc9d-e6eb4b63de0a#" target="blank">https://www.data.gov.in</a>. Here we use box plot, scatter plot and line plot for drawing some inference from the data.
 
 </p>
 
-####  Rainfall in South Peninsula &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[Github Page](https://github.com/maheshtom317.github.io/DS200_research)] [[Results](DS200_research/README_2.md)]
+####  Rainfall in South Peninsula &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[Github Page](https://github.com/maheshtom317/DS200_assign_Module4/blob/main/README_2.md)] [[Results](DS200_research/README_2.md)]
 
 <p align="justify">
 The objective of this assignment is to generate plots using matplotlib library and draw some inference from the data mentioned in the link.The dataset used here is Rainfall in South Peninsula And its Departure for Monsoon Session (June-Septemebr) from 1901-2016. It is available at <a href="https://data.gov.in/resource/rainfall-south-peninsula-10-subdivisions-and-its-departure-normal-monsoon-session-june-0" target="blank">https://www.data.gov.in</a>. Here we use box plot, scatter plot,bar plot and line plot for drawing some inference from the data.
