@@ -16,7 +16,7 @@
 ### Scatter Plots
 > Here are a few scatter plots
  <p align="center">
- <img src="Rainfall_pics/scatter_rainfall.jpg" width="800px" alt=""> 
+ <img src="Rainfall_pics/scatter_rainfall.jpg" width="1000px" alt=""> 
  </p>
 1.This plot shows the variation of the rainfall across many years for the months June, July, September
 2.Inference here is that as the in general the rainfall in July is higher than that of June and September. While comparing rainfall between June and September it is not so clear which month has higher rainfall from this graph but September has lower dips compared to the June. 
