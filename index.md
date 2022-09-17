@@ -43,6 +43,33 @@ I worked as a software developer in <a href="https://www.3ds.com/" target="blank
 
 
 ---
+
+## Projects
+
+### Using Hidden Markov Model for KeyStroke Biometric Studies. 
+####  Indian Institute of Science, Bengaluru (May 2022)
+<p align="justify">
+The aim of this project was to detect an impostor user by learning the typing patterns of the user. The data-set used was the CMU KeyStroke Dynamics data-set. 
+A Partially Hidden Markov Model was used to classify the users based on data such as time duration for each key and time between consecutive keys. The training process was parallelized and a feed forward neural network was employed to improve the results of the HMM/POHMM.
+</p>
+
+### Extraction of a Table from an Image using ML models. 
+####  Indian Institute of Science, Bengaluru (December 2021)
+<p align="justify">
+The aim of this project was to convert a handwritten table into an excel sheet csv format. It inolved the extraction of content inside the table after which ML models were used to train on the MINST dataset to classify the characters. Various models like Random forest classifier, KNN, Logistic regression, Voting Classifier, and Deep Neural Networks were used to classify the characters and results for each model were compared. 
+
+</p>
+
+### Design and Analysis of a PIV system
+####  BMS College of Engineering, Bengaluru (May 2018)
+<p align="justify">
+This project involved the design and analysis of a Particle Image Velocimetry Sytem using a water channel and then conducting and validating some standard results like flow over a cylinder at low Reynolds' Number. It involved the knowledge of experimental fluid mechanics for setup, and MATLAB and image processing for analysing the pictures and computing the velocity vectors from the pictures taken from a mobile camera. 
+   
+
+
+---
+
+
 ## Favorite quotes
 
 <p align="center">
