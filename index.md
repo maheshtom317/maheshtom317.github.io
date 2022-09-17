@@ -18,7 +18,7 @@ The objective of this assignment is to generate plots using matplotlib library a
 ####  Rainfall in South Peninsula &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[Github Page](https://github.com/maheshtom317/DS200_assign_Module4/blob/main/README_2.md)] [[Results](DS200_research/README_2.md)]
 
 <p align="justify">
-The objective of this assignment is to generate plots using matplotlib library and draw some inference from the data mentioned in the link.The dataset used here is Rainfall in South Peninsula And its Departure for Monsoon Session (June-Septemebr) from 1901-2016. It is available at <a href="https://data.gov.in/resource/rainfall-south-peninsula-10-subdivisions-and-its-departure-normal-monsoon-session-june-0" target="blank">https://www.data.gov.in</a>. Here we use box plot, scatter plot,bar plot and line plot for drawing some inference from the data.
+The objective of this assignment is to generate plots using matplotlib library and draw some inference from the data mentioned in the link.The dataset used here is Rainfall in South Peninsula And its Departure for Monsoon Session (June-Septemebr) from 1901-2016. It is available at <a href="https://data.gov.in/resource/rainfall-south-peninsula-10-subdivisions-and-its-departure-normal-monsoon-session-june-0" target="blank">https://www.data.gov.in</a>. Here we use box plot, scatter plot,bar plot and line plot for drawing some inference from the data. 
 
 </p>
 
@@ -31,6 +31,7 @@ The objective of this assignment is to generate plots using matplotlib library a
 ####  (August 2022-December 2022)
 <p align="justify">
 I am currently a teaching assistant for DS:226 Introduction to Computing for Artificial Intelligence and Machine Learning at <a href="https://www.iisc.ac.in" target="blank">IISc</a>, Bengaluru where I design and evaluate questions for quizzes, assignments and exams.  
+
 </p>
 
 ### Dassault Systemes
@@ -50,13 +51,13 @@ I worked as a software developer in <a href="https://www.3ds.com/" target="blank
 ####  Indian Institute of Science, Bengaluru (May 2022)
 <p align="justify">
 The aim of this project was to detect an impostor user by learning the typing patterns of the user. The data-set used was the CMU KeyStroke Dynamics data-set. 
-A Partially Hidden Markov Model was used to classify the users based on data such as time duration for each key and time between consecutive keys. The training process was parallelized and a feed forward neural network was employed to improve the results of the HMM/POHMM.
+A Partially Hidden Markov Model was used to classify the users based on data such as time duration for each key and time between consecutive keys. The training process was parallelized and a feed forward neural network was employed to improve the results of the HMM/POHMM.The brief <b>presentation</b> of this project can be found <a href= "pdf/MLSP_project_ppt_final.pdf" target="blank"><b>here</b></a>.
 </p>
 
 ### Extraction of a Table from an Image using ML models. 
 ####  Indian Institute of Science, Bengaluru (December 2021)
 <p align="justify">
-The aim of this project was to convert a handwritten table into an excel sheet csv format. It inolved the extraction of content inside the table after which ML models were used to train on the MINST dataset to classify the characters. Various models like Random forest classifier, KNN, Logistic regression, Voting Classifier, and Deep Neural Networks were used to classify the characters and results for each model were compared. 
+The aim of this project was to convert a handwritten table into an excel sheet csv format. It inolved the extraction of content inside the table after which ML models were used to train on the MINST dataset to classify the characters. Various models like Random forest classifier, KNN, Logistic regression, Voting Classifier, and Deep Neural Networks were used to classify the characters and results for each model were compared. The brief <b>presentation</b> of this project can be found <a href= "pdf/icaiml_PPT_December.pdf" target="blank"><b>here</b></a>.
 
 </p>
 
