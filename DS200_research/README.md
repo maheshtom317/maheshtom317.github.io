@@ -11,7 +11,7 @@
 > All the files are contained in the zip folder **module4**
 1.  **a5df75bc-4578-48ad-bc9d-e6eb4b63de0a.csv** is the csv file of the data set. The name is kept same as the name we see on downloading. 
 2.  **consumer_index.py** in the github repository is the python script for the python code for plotting. 
-3.  Copy **consumer_index.ipynb** is the jupyter notebook.
+3.  **consumer_index.ipynb** is the jupyter notebook.
 
 ### Scatter Plots
 > Here are a few scatter plots
