@@ -18,7 +18,7 @@ The objective of this assignment is to generate plots using matplotlib library a
 ####  Rainfall in South Peninsula &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[Github Page](https://github.com/maheshtom317/DS200_assign_Module4/blob/main/README_2.md)] [[Results](DS200_research/README_2.md)]
 
 <p align="justify">
-The objective of this assignment is to generate plots using matplotlib library and draw some inference from the data mentioned in the link.The dataset used here is Rainfall in South Peninsula And its Departure for Monsoon Session (June-Septemebr) from 1901-2016. It is available at <a href="https://data.gov.in/resource/rainfall-south-peninsula-10-subdivisions-and-its-departure-normal-monsoon-session-june-0" target="blank">https://www.data.gov.in</a>. Here we use box plot, scatter plot,bar plot and line plot for drawing some inference from the data. 
+The objective of this assignment is to generate plots using matplotlib library and draw some inference from the data mentioned in the link.The dataset used here is Rainfall in South Peninsula And its Departure for Monsoon Session (June-September) from 1901-2016. It is available at <a href="https://data.gov.in/resource/rainfall-south-peninsula-10-subdivisions-and-its-departure-normal-monsoon-session-june-0" target="blank">https://www.data.gov.in</a>. Here we use box plot, scatter plot,bar plot and line plot for drawing some inference from the data. 
 
 </p>
 
@@ -65,12 +65,10 @@ The aim of this project was to convert a handwritten table into an excel sheet c
 ####  BMS College of Engineering, Bengaluru (May 2018)
 <p align="justify">
 This project involved the design and analysis of a Particle Image Velocimetry Sytem using a water channel and then conducting and validating some standard results like flow over a cylinder at low Reynolds' Number. It involved the knowledge of experimental fluid mechanics for setup, and MATLAB and image processing for analysing the pictures and computing the velocity vectors from the pictures taken from a mobile camera. 
-   
+</p>
 
 
 ---
-
-
 ## Favorite quotes
 
 <p align="center">
