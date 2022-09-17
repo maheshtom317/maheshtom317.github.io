@@ -15,7 +15,7 @@
 
 ### Scatter Plots
  <p align="center">
- <img src="pics/scatter_meat_transport.jpg" width="400px" alt=""> 
+ <img src="scatter_meat_transport.jpg" width="400px" alt=""> 
  </p>
  
 1. This plot shows the relationship between consumer price index of meat and fish vs the transport and communication. As we can see it is increasing but not in a very linear fashion. 
@@ -24,7 +24,7 @@
 
 
 <p align="center">
- <img src="pics/scatter_Spices_transport.jpg" width="400px" alt=""> 
+ <img src="scatter_Spices_transport.jpg" width="400px" alt=""> 
  </p>
  
 1. This plot shows the relationship between consumer price index of spices vs the transport and communication consumer price index. As we can see it is increasing but not in a very linear fashion.
@@ -33,7 +33,7 @@
 
 
 <p align="center">
- <img src="pics/scatter_clothing_housing.jpg" width="400px" alt=""> 
+ <img src="scatter_clothing_housing.jpg" width="400px" alt=""> 
  </p>
  
 1. This plot shows the relationship between consumer price index of clothing and housing vs the transport and communication. As we can see it is increasing but at different rates
