@@ -6,32 +6,21 @@
 > **Make a scatterplot, barchart and boxplot and draw inferences from dataset downloaded from www.data.gov.in**
 
 ### Dataset and files
-> The dataset is <a href="#my_anchor">[1]</a> **All India Consumer Price Index (Rural/Urban) upto November 2021** and is  downloaded from www.data.gov.in.
->> The link to download the dataset is https://visualize.data.gov.in/?inst=a5df75bc-4578-48ad-bc9d-e6eb4b63de0a .<br/> The data consists of consumer price index for various elements such items such as Cereals, Meat and Fish, Fruits, Healthcare products and many other products.
+> The dataset is <a href="#my_anchor">[1]</a> **Rainfall in South Peninsula And its Departure for Monsoon Session (June-Septemebr) from 1901-2016** and is  downloaded from www.data.gov.in.
+>> The link to download the dataset is https://data.gov.in/resource/rainfall-south-peninsula-10-subdivisions-and-its-departure-normal-monsoon-session-june-0 .<br/> The data consists of consumer price index for various elements such items such as Cereals, Meat and Fish, Fruits, Healthcare products and many other products.
 > All the files are contained in the zip folder **module4**
-1.  **a5df75bc-4578-48ad-bc9d-e6eb4b63de0a.csv** is the csv file of the data set. The name is kept same as the name we see on downloading. 
-2.  **consumer_index.py** in the github repository is the python script for the python code for plotting. 
-3.  **consumer_index.ipynb** is the jupyter notebook.
+1.  **south_pen-India_rainfall_act_dep_1901_2016.csv** is the csv file of the data set. The name is kept same as the name we see on downloading. 
+2.  **rainfall_peninsula_2016.py** in the github repository is the python script for the python code for plotting. 
+3.  **rainfall_peninsula_2016.ipynb** is the jupyter notebook.
 
 ### Scatter Plots
 > Here are a few scatter plots
  <p align="center">
- <img src="scatter_meat_transport.jpg" width="400px" alt=""> 
+ <img src="Rainfall_pics/scatter_rainfall.jpg" width="600px" alt=""> 
  </p>
-1.This plot shows the relationship between consumer price index of meat and fish vs the transport and communication. As we can see it is increasing but not in a very linear fashion. 
-2.Inference here is that as the transport and communication consumer price index increases so will the meat and fish consumer price index.
-
-<p align="center">
- <img src="scatter_Spices_transport.jpg" width="400px" alt=""> 
- </p>
-1.This plot shows the relationship between consumer price index of spices vs the transport and communication consumer price index. As we can see it is increasing but not in a very linear fashion. 
-2.Inference here is that as the transport and communication consumer price index increases so will the Spices consumer price index. But sometimes there are sharp increases and sometimes smoother increases in the consumer price index value. 
-
-<p align="center">
- <img src="scatter_clothing_housing.jpg" width="400px" alt=""> 
- </p>
-1.This plot shows the relationship between consumer price index of clothing and housing vs the transport and communication. As we can see it is increasing but at different rates
-2.Clothing increases and the rate of increase is higher for higher value of consumer price index for transport and communication. Maybe due to more transport people are able to buy clothes more but housing is not so easy to purchase so transport may only affect it to a certain extent. 
+1.This plot shows the variation of the rainfall across many years for the months June, July, September
+2.Inference here is that as the in general the rainfall in July is higher than that of June and September. While comparing rainfall between June and September it is not so clear which month has higher rainfall from this graph but September has lower dips compared to the June. 
+3.Across various years there is no clear trend and the rainfall seems to be constant although the peak rainfall years are before 2000. 
 
 * * *
 
