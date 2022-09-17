@@ -21,7 +21,9 @@
  
 
 1.This plot shows the variation of the rainfall across many years for the months June, July, September
+
 2.Inference here is that as the in general the rainfall in July is higher than that of June and September. While comparing rainfall between June and September it is not so clear which month has higher rainfall from this graph but September has lower dips compared to the June. 
+
 3.Across various years there is no clear trend and the rainfall seems to be constant although the peak rainfall years are before 2000. 
 
 * * *
